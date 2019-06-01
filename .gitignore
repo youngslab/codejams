@@ -1,0 +1,6 @@
+*.swp
+*build
+Makefile
+compilation_database.json
+a.out
+*.o
